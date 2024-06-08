@@ -15,9 +15,9 @@ Our mission is to revolutionize the security landscape by:
 
 ### Security Automation Solutions
 We offer a range of automation solutions designed to:
-- **Streamline vulnerability assessments** 
-- **Automate threat detection and response** 
-- **Enhance incident management** through automated workflows.
+- **Streamline vulnerability assessments**. 
+- **Automate threat detection and response**. 
+- **Enhance incident management**.
 - **Integrate seamlessly with existing security infrastructure**.
 - **Attack surface management**.
 
