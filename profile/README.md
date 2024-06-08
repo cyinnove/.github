@@ -32,8 +32,8 @@ We welcome contributions from the community. If you're interested in contributin
 - Fork the repository on GitHub.
 - Make your changes and submit a pull request.
 - Engage with the community on our forums to discuss your ideas and improvements.
-- We are always need members into our team :).
-- 
+- We are always need members into our team :) just send us.
+
 <!--
 ## Contact Us
 
