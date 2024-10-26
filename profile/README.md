@@ -32,6 +32,7 @@ We welcome contributions from the community. If you're interested in contributin
 - Fork the repository on GitHub.
 - Make your changes and submit a pull request.
 - Engage with the community on our forums to discuss your ideas and improvements.
+- If you have a good security solution idea you can contact us at any of our stated contacts below
 - We always need members for our team :) just send us.
 
 <!--
