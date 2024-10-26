@@ -1,8 +1,8 @@
 ## Overview
 
-At Cyinnove Org, we are on a mission to bring advanced security solutions to everyone 🚀
+At Cyinnove Organization, we are on a mission to bring advanced security solutions to everyone 🚀
 
-We are an open-source cybersecurity company, dedicated to building tools for security engineers, developers, bug hunters, security researchers, and threat hunters. Our goal is to help them design and manage vulnerability workflows faster and more effectively.
+We are an open-source cybersecurity company, dedicated to building tools for security engineers, developers, bug hunters, security researchers, and threat hunters. We aim to help them design and manage vulnerability workflows faster and more effectively.
 
 ## Mission Statement
 
@@ -32,12 +32,12 @@ We welcome contributions from the community. If you're interested in contributin
 - Fork the repository on GitHub.
 - Make your changes and submit a pull request.
 - Engage with the community on our forums to discuss your ideas and improvements.
-- We are always need members into our team :) just send us.
+- We always need members for our team :) just send us.
 
 <!--
 ## Contact Us
 
-For support, inquiries, or more information, please contact us at:
+For support, inquiries, or more information, don't hesitate to get in touch with us at:
 - **Email**: support@cyinnove.org
 - **Website**: []()
 - **GitHub**: [github.com/CyinnoveOrg](https://github.com/CyInnove)
