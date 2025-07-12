@@ -2,7 +2,7 @@
 
 At Cyinnove Organization, we are on a mission to bring advanced security solutions to everyone 🚀
 
-We are an open-source cybersecurity company, dedicated to building tools for security engineers, developers, bug hunters, security researchers, and threat hunters. We aim to help them design and manage vulnerability workflows faster and more effectively.
+We are an open-source cybersecurity company dedicated to building tools for security engineers, developers, bug hunters, security researchers, and threat hunters. We aim to help them design and manage vulnerability workflows faster and more effectively.
 
 ## Mission Statement
 
@@ -49,8 +49,9 @@ For support, inquiries, or more information, don't hesitate to get in touch with
 
 Our tools and solutions are released under the [MIT License](LICENSE), allowing for open-source contributions and wide distribution. 
 
-## Support us 
-https://ko-fi.com/h0tak88r
+## Contact for Support or invest 
+
+zomasec@proton.me
 
 ---
 
