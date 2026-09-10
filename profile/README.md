@@ -14,7 +14,7 @@ Expert-led offensive security, accelerated by our own AI tooling and validated b
 
 [![Website](https://img.shields.io/badge/Website-cyinnove.com-7c3aed?style=for-the-badge)](https://cyinnove.com)
 [![Book an assessment](https://img.shields.io/badge/Book_a_Security_Assessment-a78bfa?style=for-the-badge)](mailto:hello@cyinnove.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cyinnove
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cyinnove)
 
 </div>
 
