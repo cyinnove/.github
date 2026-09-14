@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="CyInnove: Cyber Innovation to Secure Assets and Applications" width="100%">
+<img src="./assets/cyinnove-banner.png" alt="CyInnove: Cyber Innovation to Secure Assets and Applications" width="100%">
 
 <br>
 
