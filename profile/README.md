@@ -63,7 +63,6 @@ Every engagement runs on our own platform, so you receive, manage and export eve
 ## Get in touch
 
 - **General and assessments:** [hello@cyinnove.com](mailto:hello@cyinnove.com)
-- **Support and partnerships:** [zomasec@proton.me](mailto:zomasec@proton.me)
 - **LinkedIn:** [CyInnove](https://www.linkedin.com/company/cyinnove)
 
 > Working on something sensitive? We operate under NDA and provide a responsible disclosure channel on request.
